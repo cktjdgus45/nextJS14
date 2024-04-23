@@ -19,6 +19,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/movies/[id]/page.js"
+    ],
+    "/me/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/me/page.js"
     ]
   }
 }
